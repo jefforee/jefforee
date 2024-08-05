@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a personal project called "Student Marketplace"<br>🌱 I'm currently learning the MERN stack<br>🔍 I'm looking for full-time roles as a Software Engineer<br>💬 Ask me about my personal projects<br>⚡ Fun fact: I love to collect Daiso Petit Blocks
+🔭 I'm currently working on a personal project called "UniMart"<br>🌱 I'm currently learning the MERN stack<br>🔍 I'm looking for full-time roles as a Software Engineer<br>💬 Ask me about my personal projects<br>⚡ Fun fact: I love to collect Daiso Petit Blocks
 
 
 ## 🌐 Socials:
